@@ -1,0 +1,56 @@
+{
+  "name": "foodie-shopie-admin",
+  "version": "0.0.1",
+  "description": "Foodie Shopie Admin Panel",
+  "productName": "Foodie Shopie Admin",
+  "author": "Samar Yalini <samarjben@outlook.com>",
+  "private": true,
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "@vueup/vue-quill": "1.0.0-beta.6",
+    "axios": "^0.21.1",
+    "change-case": "^4.1.2",
+    "core-js": "^3.6.5",
+    "echarts": "^5.2.2",
+    "firebase": "^9.6.1",
+    "javascript-time-ago": "^2.3.10",
+    "naive-ui": "^2.28.0",
+    "qs": "^6.10.1",
+    "quasar": "^2.0.0",
+    "swiper": "^7.3.0",
+    "uuid": "^8.3.2",
+    "vue-cropperjs": "^5.0.0",
+    "vue-echarts": "^6.0.0",
+    "vue3-google-map": "^0.8.3",
+    "vuedraggable": "^4.1.0",
+    "vuex": "^4.0.1"
+  },
+  "devDependencies": {
+    "@quasar/app": "^3.0.0",
+    "dotenv": "^10.0.0",
+    "vue": "3.2.21",
+    "vue-router": "4.0.12",
+    "vuex": "^4.0.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 12.22.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}

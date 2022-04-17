@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VS Foods</string>
+    <string name="title_activity_main">VS Foods</string>
+    <string name="package_name">com.vsgroupstn.vsfoods</string>
+    <string name="custom_url_scheme">com.vsgroupstn.vsfoods</string>
+</resources>

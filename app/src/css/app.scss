@@ -1,0 +1,72 @@
+// app global css in SCSS form
+@import "bootstrap-reset";
+
+a {
+  color: $primary;
+  text-decoration: none;
+}
+
+.center-in-page {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: $grey;
+}
+
+.q-notifications__list--bottom {
+  bottom: 50px;
+}
+
+.swiper-slide {
+  -webkit-backface-visibility: hidden !important;
+  transform: translateZ(0) !important;
+  -webkit-transform: translate3d(0,0,0) !important;
+}
+
+.swiper-wrapper {
+  -webkit-backface-visibility: hidden !important;
+  -webkit-transform-style: preserve-3d !important;
+}
+
+.swiper-container * {
+  -webkit-backface-visibility:hidden;
+  -moz-backface-visibility:hidden;
+  -ms-backface-visibility:hidden;
+  -o-backface-visibility:hidden;
+  backface-visibility:hidden;
+}
+
+.vs-text-bold {
+  font-weight: bold;
+}
+
+.vs-text-italic {
+  font-style: italic;
+}
+
+.vs-text-strike {
+  text-decoration: line-through;
+}
+
+.vs-text-underline {
+  text-decoration: underline;
+}
+
+.vs-text-center {
+  text-align: center;
+}
+
+.vs-text-left {
+  text-align: left;
+}
+
+.vs-text-right {
+  text-align: right;
+}

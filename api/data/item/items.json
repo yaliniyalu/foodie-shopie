@@ -1,0 +1,499 @@
+[
+    {
+        "code": "1001",
+        "name": "Luger Burger",
+        "category": "Burger",
+        "image": "lurger-burger.png",
+        "price": "14.95",
+        "unit": "pcs",
+        "modifiers": [
+            "Burger Add"
+        ]
+    },
+    {
+        "code": "1002",
+        "name": "Black Bean Burger",
+        "category": "Burger",
+        "image": "black-bean-burger.png",
+        "price": "11",
+        "unit": "pcs",
+        "modifiers": [
+            "Burger Add"
+        ]
+    },
+    {
+        "code": "1003",
+        "name": "Lola Burger",
+        "category": "Burger",
+        "image": "lola-burger.png",
+        "price": "13",
+        "unit": "pcs",
+        "modifiers": [
+            "Burger Add",
+            "Burger Size"
+        ]
+    },
+    {
+        "code": "1004",
+        "name": "Plain Jane Burger",
+        "category": "Burger",
+        "image": "plain-jane-burger.png",
+        "price": "10.95",
+        "unit": "pcs",
+        "modifiers": [
+            "Burger Add"
+        ]
+    },
+    {
+        "code": "2001",
+        "name": "Black Forest",
+        "category": "Cake",
+        "image": "black-forest-cake.png",
+        "price": "8.76",
+        "unit": "pcs",
+        "modifiers": []
+    },
+    {
+        "code": "2002",
+        "name": "Chocolate Truffle",
+        "category": "Cake",
+        "image": "choco-truffle-cake.png",
+        "price": "10.73",
+        "unit": "pcs",
+        "modifiers": []
+    },
+    {
+        "code": "2003",
+        "name": "Cofee Cake",
+        "category": "Cake",
+        "image": "coffee-cake.png",
+        "price": "13",
+        "unit": "pcs",
+        "modifiers": []
+    },
+    {
+        "code": "2004",
+        "name": "Eggless Truffle",
+        "category": "Cake",
+        "image": "eggless-truffle-cake.png",
+        "price": "11",
+        "unit": "pcs",
+        "modifiers": []
+    },
+    {
+        "code": "2005",
+        "name": "Mango Cake",
+        "category": "Cake",
+        "image": "mango-cake.png",
+        "price": "17.48",
+        "unit": "pcs",
+        "modifiers": []
+    },
+    {
+        "code": "2006",
+        "name": "Red Velvet",
+        "category": "Cake",
+        "image": "red-velvet-cake.png",
+        "price": "25.58",
+        "unit": "pcs",
+        "modifiers": []
+    },
+    {
+        "code": "3001",
+        "name": "Chocolate Coffee",
+        "category": "Coffee",
+        "image": "chocolate-coffee.png",
+        "price": "4.25",
+        "unit": "cup",
+        "modifiers": [
+            "Cream"
+        ]
+    },
+    {
+        "code": "3002",
+        "name": "Coffee",
+        "category": "Coffee",
+        "image": "coffee.png",
+        "price": "5.95",
+        "unit": "cup",
+        "modifiers": [
+            "Coffee Type",
+            "Cream"
+        ]
+    },
+    {
+        "code": "3004",
+        "name": "Decaf Coffee",
+        "category": "Coffee",
+        "image": "decaf-coffee.png",
+        "price": "3",
+        "unit": "cup",
+        "modifiers": [
+            "Cream"
+        ]
+    },
+    {
+        "code": "3005",
+        "name": "Espresso",
+        "category": "Coffee",
+        "image": "espresso.png",
+        "price": "5.90",
+        "unit": "cup",
+        "modifiers": [
+            ""
+        ]
+    },
+    {
+        "code": "3006",
+        "name": "Long Black",
+        "category": "Coffee",
+        "image": "long-black.png",
+        "price": "2.99",
+        "unit": "cup",
+        "modifiers": [
+            "Cream"
+        ]
+    },
+    {
+        "code": "3007",
+        "name": "Macchiato",
+        "category": "Coffee",
+        "image": "macchiato.png",
+        "price": "5.95",
+        "unit": "cup",
+        "modifiers": [
+            ""
+        ]
+    },
+    {
+        "code": "3008",
+        "name": "Tea",
+        "category": "Coffee",
+        "image": "tea.png",
+        "price": "4.0",
+        "unit": "cup",
+        "modifiers": [
+            "Coffee Type"
+        ]
+    },
+    {
+        "code": "4001",
+        "name": "7Up",
+        "category": "Drinks",
+        "image": "7up.png",
+        "price": "1.5",
+        "unit": "can",
+        "modifiers": [
+            "Drink Size",
+            "Drink Cool"
+        ]
+    },
+    {
+        "code": "4002",
+        "name": "Coke",
+        "category": "Drinks",
+        "image": "coke.png",
+        "price": "1.5",
+        "unit": "can",
+        "modifiers": [
+            "Drink Size",
+            "Drink Cool"
+        ]
+    },
+    {
+        "code": "4003",
+        "name": "Coke Zero",
+        "category": "Drinks",
+        "image": "coke-zero.png",
+        "price": "2.5",
+        "unit": "can",
+        "modifiers": [
+            "Drink Cool"
+        ]
+    },
+    {
+        "code": "4004",
+        "name": "Fanta",
+        "category": "Drinks",
+        "image": "fanta.png",
+        "price": "1.5",
+        "unit": "can",
+        "modifiers": [
+            "Drink Size",
+            "Drink Cool"
+        ]
+    },
+    {
+        "code": "4005",
+        "name": "Nestea",
+        "category": "Drinks",
+        "image": "nestea.png",
+        "price": "2.5",
+        "unit": "can",
+        "modifiers": [
+            "Drink Cool"
+        ]
+    },
+    {
+        "code": "4006",
+        "name": "Pepsi",
+        "category": "Drinks",
+        "image": "pepsi.png",
+        "price": "1.5",
+        "unit": "can",
+        "modifiers": [
+            "Drink Size",
+            "Drink Cool"
+        ]
+    },
+    {
+        "code": "4007",
+        "name": "Sprite",
+        "category": "Drinks",
+        "image": "sprite.png",
+        "price": "1.50",
+        "unit": "can",
+        "modifiers": [
+            "Drink Size",
+            "Drink Cool"
+        ]
+    },
+    {
+        "code": "4008",
+        "name": "Water",
+        "category": "Drinks",
+        "image": "water.png",
+        "price": "1.5",
+        "unit": "can",
+        "modifiers": [
+            "Drink Size",
+            "Drink Cool"
+        ]
+    },
+    {
+        "code": "5001",
+        "name": "Apple",
+        "category": "Juice",
+        "image": "apple.png",
+        "price": "13",
+        "unit": "cup",
+        "modifiers": [
+            "Ice"
+        ]
+    },
+    {
+        "code": "5002",
+        "name": "Cranberry",
+        "category": "Juice",
+        "image": "cranberry.png",
+        "price": "16",
+        "unit": "cup",
+        "modifiers": [
+            "Ice"
+        ]
+    },
+    {
+        "code": "5003",
+        "name": "Grape",
+        "category": "Juice",
+        "image": "grape.png",
+        "price": "15",
+        "unit": "cup",
+        "modifiers": [
+            "Ice"
+        ]
+    },
+    {
+        "code": "5004",
+        "name": "Orange",
+        "category": "Juice",
+        "image": "orange.png",
+        "price": "12",
+        "unit": "cup",
+        "modifiers": [
+            "Ice"
+        ]
+    },
+    {
+        "code": "5006",
+        "name": "Pineapple",
+        "category": "Juice",
+        "image": "pine.png",
+        "price": "14",
+        "unit": "cup",
+        "modifiers": [
+            "Ice"
+        ]
+    },
+    {
+        "code": "5007",
+        "name": "Lemonade",
+        "category": "Juice",
+        "image": "lemonade.png",
+        "price": "8",
+        "unit": "cup",
+        "modifiers": [
+            "Ice"
+        ]
+    },
+    {
+        "code": "6001",
+        "name": "Deep Dish Pizza",
+        "category": "Pizza",
+        "image": "pan-pizza.png",
+        "price": "11.25",
+        "unit": "pcs",
+        "modifiers": [
+            "Pizza Toppings",
+            "Pizza Cheese",
+            "Pizza Crust",
+            "Pizza Size"
+        ]
+    },
+    {
+        "code": "6002",
+        "name": "Stuffed Pizza",
+        "category": "Pizza",
+        "image": "stuffed-pizza.png",
+        "price": "10.25",
+        "unit": "pcs",
+        "modifiers": [
+            "Pizza Toppings",
+            "Pizza Cheese",
+            "Pizza Crust",
+            "Pizza Size"
+        ]
+    },
+    {
+        "code": "6003",
+        "name": "Mexican Pizza",
+        "category": "Pizza",
+        "image": "mexican-pizza.png",
+        "price": "12.25",
+        "unit": "pcs",
+        "modifiers": [
+            "Pizza Toppings",
+            "Pizza Cheese",
+            "Pizza Crust",
+            "Pizza Size"
+        ]
+    },
+    {
+        "code": "6004",
+        "name": "Margherita",
+        "category": "Pizza",
+        "image": "margherita-pizza.png",
+        "price": "11.25",
+        "unit": "pcs",
+        "modifiers": [
+            "Pizza Toppings",
+            "Pizza Cheese",
+            "Pizza Crust",
+            "Pizza Size"
+        ]
+    },
+    {
+        "code": "6005",
+        "name": "Quattro Formaggi",
+        "category": "Pizza",
+        "image": "quattro-formaggi-pizza.png",
+        "price": "12.25",
+        "unit": "pcs",
+        "modifiers": [
+            "Pizza Toppings",
+            "Pizza Cheese",
+            "Pizza Crust",
+            "Pizza Size"
+        ]
+    },
+    {
+        "code": "7001",
+        "name": "Caesar Salad",
+        "category": "Salads",
+        "image": "caesar-salad.png",
+        "price": "8.50",
+        "unit": "plate",
+        "modifiers": []
+    },
+    {
+        "code": "7002",
+        "name": "Chef Salad",
+        "category": "Salads",
+        "image": "chef-salad.png",
+        "price": "7.50",
+        "unit": "plate",
+        "modifiers": []
+    },
+    {
+        "code": "7003",
+        "name": "Chicken Salad",
+        "category": "Salads",
+        "image": "chicken-salad.png",
+        "price": "8.0",
+        "unit": "plate",
+        "modifiers": []
+    },
+    {
+        "code": "7004",
+        "name": "Crab Salad",
+        "category": "Salads",
+        "image": "crab-salad.png",
+        "price": "11.50",
+        "unit": "plate",
+        "modifiers": []
+    },
+    {
+        "code": "7005",
+        "name": "Fish Caesar Salad",
+        "category": "Salads",
+        "image": "fish-caesar-salad.png",
+        "price": "9.50",
+        "unit": "plate",
+        "modifiers": []
+    },
+    {
+        "code": "7006",
+        "name": "Glazed Carrots Salad",
+        "category": "Salads",
+        "image": "glazed-carrots-salad.png",
+        "price": "6.50",
+        "unit": "plate",
+        "modifiers": []
+    },
+    {
+        "code": "7007",
+        "name": "Greek Salad",
+        "category": "Salads",
+        "image": "greek-salad.png",
+        "price": "7.50",
+        "unit": "plate",
+        "modifiers": []
+    },
+    {
+        "code": "7008",
+        "name": "Green Bean Salad",
+        "category": "Salads",
+        "image": "green-bean-salad.png",
+        "price": "6.50",
+        "unit": "plate",
+        "modifiers": []
+    },
+    {
+        "code": "7009",
+        "name": "Sweet Potato Salad",
+        "category": "Salads",
+        "image": "sweet-potato-salad.png",
+        "price": "6.5",
+        "unit": "plate",
+        "modifiers": []
+    },
+    {
+        "code": "7010",
+        "name": "Veggie Salad",
+        "category": "Salads",
+        "image": "veggie-salad.png",
+        "price": "6.20",
+        "unit": "plate",
+        "modifiers": []
+    }
+]

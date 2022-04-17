@@ -1,0 +1,15 @@
+.DS_Store
+.thumbs.db
+node_modules
+var
+
+yalini-project-firebase-adminsdk-srokx-86190fb5b1.json
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+.env

@@ -1,0 +1,62 @@
+{
+  "name": "foodie-shopie-app",
+  "version": "0.0.1",
+  "description": "Foodie Shopie App",
+  "productName": "Foodie Shopie",
+  "author": "Samar Yalini <samarjben@outlook.com>",
+  "private": true,
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build",
+    "dev:android": "quasar dev -m capacitor -T android",
+    "build:android": "quasar build -m capacitor -T android --ide",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "firebase": "^9.6.1",
+    "quasar": "^2.0.0",
+    "swiper": "^7.3.0",
+    "vuex": "^4.0.1"
+  },
+  "devDependencies": {
+    "@awesome-cordova-plugins/core": "^5.37.3",
+    "@awesome-cordova-plugins/firebase-x": "^5.37.3",
+    "@capacitor-community/fcm": "^2.0.2",
+    "@capacitor/app": "^1.0.5",
+    "@capacitor/core": "^3.2.5",
+    "@capacitor/geolocation": "^1.1.2",
+    "@capacitor/network": "^1.0.5",
+    "@capacitor/push-notifications": "^1.0.6",
+    "@capacitor/status-bar": "^1.0.6",
+    "@capacitor/toast": "^1.0.6",
+    "@ionic-native/android-permissions": "^5.36.0",
+    "@ionic-native/core": "^5.36.0",
+    "@ionic-native/location-accuracy": "^5.36.0",
+    "@quasar/app": "^3.0.0",
+    "capacitor-razorpay": "https://github.com/razorpay/razorpay-capacitor.git",
+    "cordova-plugin-sms-receive": "^1.0.2",
+    "dotenv": "^10.0.0",
+    "vue": "3.2.21",
+    "vue-router": "4.0.12",
+    "vuex": "^4.0.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 12.22.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}

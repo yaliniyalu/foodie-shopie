@@ -1,0 +1,67 @@
+[
+  {
+    "id": "company.contact",
+    "value": [],
+    "type": "JSON"
+  },
+  {
+    "id": "company.logo.rect",
+    "value": "",
+    "type": "String"
+  },
+  {
+    "id": "company.logo.square",
+    "value": "",
+    "type": "File"
+  },
+  {
+    "id": "company.name",
+    "value": "Foodie Shopie",
+    "type": "String"
+  },
+  {
+    "id": "company.privacy",
+    "value": "",
+    "type": "String"
+  },
+  {
+    "id": "company.tagline",
+    "value": "",
+    "type": "String"
+  },
+  {
+    "id": "company.terms",
+    "value": "",
+    "type": "String"
+  },
+  {
+    "id": "payment.refund.fee.max",
+    "value": 0,
+    "type": "Number"
+  },
+  {
+    "id": "payment.refund.fee.min",
+    "value": 0,
+    "type": "Number"
+  },
+  {
+    "id": "payment.refund.fee.type",
+    "value": "Percent",
+    "type": "String"
+  },
+  {
+    "id": "razorpay.payment.color",
+    "value": "",
+    "type": "String"
+  },
+  {
+    "id": "razorpay.payment.logo",
+    "value": "",
+    "type": "File"
+  },
+  {
+    "id": "razorpay.payment.name",
+    "value": "",
+    "type": "String"
+  }
+]

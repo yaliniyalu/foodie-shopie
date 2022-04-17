@@ -1,0 +1,35 @@
+{
+  "name": "vs-foods-app",
+  "version": "0.0.1",
+  "description": "VS Foods App",
+  "author": "Samar Yalini <samarjben@outlook.com>",
+  "private": true,
+  "scripts": {
+    "postinstall": "node fix-firebasex-hook.js",
+    "postuninstall": "node fix-firebasex-hook.js"
+  },
+  "dependencies": {
+    "@awesome-cordova-plugins/core": "^5.37.3",
+    "@awesome-cordova-plugins/firebase-x": "^5.37.3",
+    "@capacitor/android": "^3.2.5",
+    "@capacitor/app": "^1.0.5",
+    "@capacitor/cli": "^3.2.5",
+    "@capacitor/core": "^3.2.5",
+    "@capacitor/geolocation": "^1.1.2",
+    "@capacitor/haptics": "^1.1.2",
+    "@capacitor/keyboard": "^1.1.2",
+    "@capacitor/network": "^1.0.5",
+    "@capacitor/status-bar": "^1.0.6",
+    "@capacitor/toast": "^1.0.6",
+    "@ionic-native/android-permissions": "^5.36.0",
+    "@ionic-native/location-accuracy": "^5.36.0",
+    "capacitor-razorpay": "https://github.com/razorpay/razorpay-capacitor.git",
+    "cordova-plugin-android-permissions": "^1.1.2",
+    "cordova-plugin-firebasex": "^13.0.1",
+    "cordova-plugin-navigationbar-color": "^0.1.0",
+    "cordova-plugin-request-location-accuracy": "^2.3.0",
+    "postinstall": "*"
+  },
+  "devDependencies": {},
+  "postinstall": "fix-firebasex"
+}
